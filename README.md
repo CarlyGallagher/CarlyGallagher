@@ -2,7 +2,6 @@
 
 I'm a full stack developer that loves building applications that are efficent, user-friendly, and unique in style.
 
-- 🔥 Fun Fact: **One of my first jobs was fighting wild fires in Northern california as a sawyer**
 
 ## 🛠️ Skills
 
@@ -35,7 +34,7 @@ I'm a full stack developer that loves building applications that are efficent, u
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carly-gallagher-software-engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carly-gallagher-software-engineer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://carlygallagherdev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlygallagher22@gmail.com)
 
