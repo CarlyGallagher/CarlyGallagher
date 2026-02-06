@@ -26,17 +26,14 @@ I'm a full stack developer that loves building applications that are efficent, u
 ### [Saint Misty](https://github.com/CarlyGallagher/saintMisty)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<img width="1348" height="748" alt="Screenshot 2026-02-05 at 11 55 22 AM" src="https://github.com/user-attachments/assets/5a259696-065a-4696-a85e-bb6cee328bf1" />
-<img width="1222" height="791" alt="Screenshot 2026-02-05 at 11 53 48 AM" src="https://github.com/user-attachments/assets/1008fd1c-b486-4377-85c3-5fcd1c22450e" />
-<img width="1460" height="809" alt="Saint-Misty-Space" src="https://github.com/user-attachments/assets/c50eff91-3335-45dc-a169-91855e6f12da" />
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img width="1348" height="748" alt="Screenshot 2026-02-05 at 11 55 22 AM" src="https://github.com/user-attachments/assets/5a259696-065a-4696-a85e-bb6cee328bf1" />
+<img width="1222" height="791" alt="Screenshot 2026-02-05 at 11 53 48 AM" src="https://github.com/user-attachments/assets/1008fd1c-b486-4377-85c3-5fcd1c22450e" />
+<img width="1460" height="809" alt="Saint-Misty-Space" src="https://github.com/user-attachments/assets/c50eff91-3335-45dc-a169-91855e6f12da" />
 
-## 🖼️ Screenshots
-
-![Homepage Dark](./screenshots/Saint-Misty-Space.png) *Classic MySpace-inspired layout with hot pink and leopard print theme*### About Section & Music Player![About Section](./screenshots/Screenshot_2026-02-05_at_11_53_48_AM.png) *Custom music player with biography, interests, and friends section* ### Homepage - Light Mode![Homepage Light](./screenshots/Screenshot_2026-02-05_at_11_55_22_AM.png)*Alternative color scheme with blue accents*
 
 
 
