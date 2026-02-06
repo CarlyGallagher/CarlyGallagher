@@ -1,10 +1,8 @@
 ## Hey! My name is Carly 👋
 
-## About Me 
 I'm a full stack developer that loves building applications that are efficent, user-friendly, and unique in style.
 
-- 📫 contact me: **[carlygallagher22@gmail.com]**
-- 🔥 Fun Fact: **[One of my first jobs was fighting wild fires in Northern california as a sawyer]**
+- 🔥 Fun Fact: **One of my first jobs was fighting wild fires in Northern california as a sawyer**
 
 ## 🛠️ Skills
 
@@ -24,6 +22,7 @@ I'm a full stack developer that loves building applications that are efficent, u
 ## 💾 Featured Project
 
 ### [Saint Misty](https://github.com/CarlyGallagher/saintMisty)
+#### A creative artist page that channels y2k nostalgia using myspace aesthetics. 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +33,11 @@ I'm a full stack developer that loves building applications that are efficent, u
 <img width="1222" height="791" alt="Screenshot 2026-02-05 at 11 53 48 AM" src="https://github.com/user-attachments/assets/1008fd1c-b486-4377-85c3-5fcd1c22450e" />
 <img width="1460" height="809" alt="Saint-Misty-Space" src="https://github.com/user-attachments/assets/c50eff91-3335-45dc-a169-91855e6f12da" />
 
+## 📫 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carly-gallagher-software-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://carlygallagherdev.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlygallagher22@gmail.com)
 
 
 ⭐️ From [CarlyGallagher](https://github.com/CarlyGallagher)
